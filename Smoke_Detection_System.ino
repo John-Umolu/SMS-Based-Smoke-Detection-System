@@ -5,7 +5,7 @@ SoftwareSerial gsm(10, 11);
 LiquidCrystal lcd(7,6,5,4,3,2);
 //
 //Please change to your mobile number
-String gsmNumber = "+2347031011012";
+String gsmNumber = "+234xxxxxxxxxxxx";
 //
 int buz = 12;
 int smsCount = 0;
